@@ -1,0 +1,6 @@
+{
+  "name": "BadmintonHub",
+  "description": "ระบบจัดก๊วนแบดมินตันอัจฉริยะ จัดคิวลงสนามอัตโนมัติ สกอร์บอร์ดนับคะแนน BWF และระบบคำนวณหารค่าคอร์ทค่าลูก",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
